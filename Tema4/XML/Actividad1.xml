@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Definición del documento XML-->
+<!DOCTYPE listalibro SYSTEM "Actividad1.dtd">
+<listalibro>
+    <libro> 
+        <autores>
+            <autor>
+                <apellido1>GLUKHOSVSKY</apellido1>
+                <apellido2></apellido2>
+                <nombre>DMITRI</nombre>
+            </autor>
+            <autor>
+                <apellido1> </apellido1>
+                <apellido2> </apellido2>
+                <nombre></nombre>
+            </autor>
+        </autores>
+        <titulo>Metro 2033</titulo>
+        <editorial> 
+            <publicacion>TIMUN MAS</publicacion>
+        </editorial>
+        <ISBN>9788448039806</ISBN>
+    </libro>
+    <libro> 
+        <autores>
+            <autor>
+                <apellido1>GLUKHOSVSKY</apellido1>
+                <apellido2> </apellido2>
+                <nombre>DMITRI</nombre>
+            </autor>
+            <autor>
+                <apellido1> </apellido1>
+                <apellido2> </apellido2>
+                <nombre> </nombre>
+            </autor>
+        </autores>
+        <titulo>Metro 2034</titulo>
+        <editorial> 
+            <publicacion>TIMUN MAS</publicacion>
+        </editorial>
+        <ISBN>9788448039813</ISBN>
+    </libro> 
+    <libro> 
+        <autores>
+            <autor>
+                <apellido1>Miller</apellido1>
+                <apellido2></apellido2>
+                <nombre>Walter</nombre>
+            </autor>
+            <autor>
+                <apellido1> </apellido1>
+                <apellido2> </apellido2>
+                <nombre></nombre>
+            </autor>
+        </autores>
+        <titulo>A Canticle for Leibowitz</titulo>
+        <editorial> 
+            <publicacion>B, S. A.</publicacion>
+        </editorial>
+        <ISBN>9788490695357</ISBN>
+    </libro>
+    <libro> 
+        <autores>
+            <autor>
+                <apellido1>Saramago</apellido1>
+                <apellido2> </apellido2>
+                <nombre>José</nombre>
+            </autor>
+            <autor>
+                <apellido1> </apellido1>
+                <apellido2> </apellido2>
+                <nombre> </nombre>
+            </autor>
+        </autores>
+        <titulo>Ensaio sobre a cegueira</titulo>
+        <editorial> 
+            <publicacion>Santillana</publicacion>
+        </editorial>
+        <ISBN>9788448039813</ISBN>
+    </libro>
+    <libro> 
+        <autores>
+            <autor>
+                <apellido1>McCarthy</apellido1>
+                <apellido2> </apellido2>
+                <nombre>Cormac</nombre>
+            </autor>
+            <autor>
+                <apellido1> </apellido1>
+                <apellido2> </apellido2>
+                <nombre> </nombre>
+            </autor>
+        </autores>
+        <titulo>The Road</titulo>
+        <editorial> 
+            <publicacion>Alfred A. Knopf</publicacion>
+        </editorial>
+        <ISBN>9788448039813</ISBN>
+    </libro>
+    <libro> 
+        <autores>
+            <autor>
+                <apellido1>NIVEN</apellido1>
+                <apellido2> </apellido2>
+                <nombre>LARRY</nombre>
+            </autor>
+            <autor>
+                <apellido1>POURNELLE</apellido1>
+                <apellido2> </apellido2>
+                <nombre>JERRY</nombre>
+            </autor>
+        </autores>
+        <titulo>EL MARTILLO DE LUCIFER</titulo>
+        <editorial> 
+            <publicacion>TYRANNOSAURUS BOOKS</publicacion>
+        </editorial>
+        <ISBN>9788494444227</ISBN>
+    </libro>
+    <libro> 
+        <autores>
+            <autor>
+                <apellido1>MANEL</apellido1>
+                <apellido2> </apellido2>
+                <nombre>LOUREIRO</nombre>
+            </autor>
+            <autor>
+                <apellido1></apellido1>
+                <apellido2> </apellido2>
+                <nombre></nombre>
+            </autor>
+        </autores>
+        <titulo>APOCALIPSIS Z: EL PRINCIPIO DEL FIN</titulo>
+        <editorial> 
+            <publicacion>DEBOLSILLO</publicacion>
+        </editorial>
+        <ISBN>9788499081908</ISBN>
+    </libro>
+    <libro> 
+        <autores>
+            <autor>
+                <apellido1>STEWART</apellido1>
+                <apellido2> </apellido2>
+                <nombre>GEORGE</nombre>
+            </autor>
+            <autor>
+                <apellido1></apellido1>
+                <apellido2> </apellido2>
+                <nombre></nombre>
+            </autor>
+        </autores>
+        <titulo>LA TIERRA PERMANECE</titulo>
+        <editorial> 
+            <publicacion>GIGAMESH</publicacion>
+        </editorial>
+        <ISBN>9788416035434</ISBN>
+    </libro>
+    <libro> 
+        <autores>
+            <autor>
+                <apellido1>John</apellido1>
+                <apellido2>Mandel</apellido2>
+                <nombre>Emily</nombre>
+            </autor>
+            <autor>
+                <apellido1></apellido1>
+                <apellido2> </apellido2>
+                <nombre></nombre>
+            </autor>
+        </autores>
+        <titulo>Estación Once</titulo>
+        <editorial> 
+            <publicacion>Kailas Editorial</publicacion>
+        </editorial>
+        <ISBN>9788416023912</ISBN>
+    </libro>
+    <libro> 
+        <autores>
+            <autor>
+                <apellido1>BALLARD</apellido1>
+                <apellido2></apellido2>
+                <nombre>JOHN</nombre>
+            </autor>
+            <autor>
+                <apellido1></apellido1>
+                <apellido2> </apellido2>
+                <nombre></nombre>
+            </autor>
+        </autores>
+        <titulo>EL MUNDO SUMERGIDO</titulo>
+        <editorial> 
+            <publicacion>MINOTAURO</publicacion>
+        </editorial>
+        <ISBN>9788445076880</ISBN>
+    </libro>
+</listalibro>

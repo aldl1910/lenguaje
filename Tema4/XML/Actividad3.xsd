@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cs:schema xmlns:cs="https://es.ford.com/" version="0.1" xml:lang="es">
+    <cs:element name="concesonario">
+        <cs:complexType>
+            <cs:sequence>
+                <cs:element name="coche" masOccurs="unbounded">
+                    <cs:complexType>
+                        <cs:sequence>
+                            <cs:element name="codigo" masOccurs="unbounded"/>
+                            <cs:element name="matricula" masOccurs="unbounded"/>
+                            <cs:element name="marca" masOccurs="unbounded"/>
+                            <cs:element name="modelo" masOccurs="unbounded">
+                                <cs:complexType>
+                                    <cs:sequence>
+                                        <cs:element name="potencia" masOccurs="unbounded"/>
+                                        <cs:element name="plazas" masOccurs="unbounded"/>
+                                        <cs:element name="numPuertas" masOccurs="unbounded"/>
+                                    </cs:sequence>
+                                </cs:complexType>
+                            </cs:element>
+                        </cs:sequence>
+                    </cs:complexType>
+                </cs:element>
+            </cs:sequence>
+        </cs:complexType>
+    </cs:element>
+</cs:schema>

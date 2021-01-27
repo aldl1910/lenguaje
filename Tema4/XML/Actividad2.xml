@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Definición del documento XML-->
+<!DOCTYPE concesionario SYSTEM "Actividad2.dtd">
+<concesionario>
+    <coche> 
+        <codigo>648789745645a</codigo>
+        <matricula>6584CA</matricula>
+        <marca>Ford</marca>
+        <modelo>
+            <potencia>455</potencia>
+            <plazas>4</plazas>
+            <numPuertas>3</numPuertas>
+        </modelo>       
+    </coche>
+    <coche> 
+        <codigo>756489124672b</codigo>
+        <matricula>8765MA</matricula>
+        <marca>Ford</marca>
+        <modelo>
+            <potencia>450</potencia>
+            <plazas>5</plazas>
+            <numPuertas>4</numPuertas>
+        </modelo>       
+    </coche> 
+    <coche> 
+        <codigo>786489752482c</codigo>
+        <matricula>7865M</matricula>
+        <marca>Ford</marca>
+        <modelo>
+            <potencia>500</potencia>
+            <plazas>4</plazas>
+            <numPuertas>3</numPuertas>
+        </modelo>       
+    </coche>
+</concesionario>
