@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="libreria.xsl"?>
+<?xml-stylesheet type="text/xsl" href="libreria5_3.xsl"?>
 <libreria>
+<!-- Ejemplo 5.1
+
     <libro>
         <titulo>Physics-based animation</titulo>
         <autor>Kenny Erleben</autor>
         <editor>Charles River Media</editor>
         <isbn>978-1584503804</isbn>
         <precio>50.06</precio>
+        <numpaginas>150</numpaginas>
     </libro>
     <libro>
         <titulo>Carlos Garre</titulo>
@@ -14,6 +17,7 @@
         <editor>Dykinson</editor>
         <isbn>978-84-9849-998-8</isbn>
         <precio>13.00</precio>
+        <numpaginas>135</numpaginas>
     </libro>
     <libro>
         <titulo>Ejercicos complementarios de lógica digital</titulo>
@@ -21,5 +25,62 @@
         <editor>Dykinson</editor>
         <isbn>978-84-9849-703-8</isbn>
         <precio>12.00</precio>
+        <numpaginas>180</numpaginas>
     </libro>
+-->
+<!-- Actividad 5.1 y 5.2
+    <libro>
+        <isbn>978-84-9849-804-8</isbn>
+        <titulo>Ejercicos complementarios de lógica</titulo>
+        <autor>Francisco Perez</autor>
+        <editor>Dykinson</editor>
+        <precio>9.50</precio>
+        <numpaginas>100</numpaginas>
+    </libro>
+    <libro>
+        <isbn>109-84-9849-703-8</isbn>
+        <titulo>Ejercicos de lógica digital</titulo>
+        <autor>Francisco Perez</autor>
+        <editor>Dykinson</editor>
+        <precio>8.50</precio>
+        <numpaginas>120</numpaginas>
+    </libro>
+ -->
+ <!-- Actividad 5.3 
+    <libro>
+        <isbn>978-84-9849-804-8</isbn>
+        <titulo>Ejercicos complementarios de lógica</titulo>
+        <autor>Francisco Perez</autor>
+        <editor>Dykinson</editor>
+        <precio>10.50</precio>
+        <numpaginas>100</numpaginas>
+    </libro>
+    <libro>
+        <isbn>109-84-9849-703-8</isbn>
+        <titulo>Ejercicos de lógica digital</titulo>
+        <autor>Francisco Perez</autor>
+        <editor>Dykinson</editor>
+        <precio>12.50</precio>
+        <numpaginas>120</numpaginas>
+    </libro>
+-->
+
+<!-- Actividad 5.4 y 5.5
+    <libro>
+        <titulo>Lógica digital</titulo>
+        <autor>Antonio García</autor>
+        <editor>Dykinson</editor>
+        <isbn>109-84-7896-703-8</isbn>
+        <precio>10.50</precio>
+        <numpaginas>170</numpaginas>
+    </libro>
+    <libro>
+        <titulo>Ejercicos de lógica</titulo>
+        <autor>Antonio García</autor>
+        <editor>Dykinson</editor>
+        <isbn>109-970-9849-703-8</isbn>
+        <precio>60.50</precio>
+        <numpaginas>140</numpaginas>
+    </libro>
+-->
 </libreria>
