@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="cd_p4.xsl"?>
+<cdteca>
+    <cd>
+        <titulo>Destiny: The Collection</titulo>
+        <artista>NEFFEX</artista>
+        <cancion tiempo="206">Destiny</cancion>
+        <cancion tiempo="186">Cold</cancion>
+        <cancion tiempo="192">Destiny (Equanimous Remix)</cancion>
+        <cancion tiempo="164">Cold in the water</cancion>
+        <cancion tiempo="128">Life</cancion>
+        <cancion tiempo="329">Things Are Gonna Get Better</cancion>
+        <cancion tiempo="220">Hope</cancion>
+        <cancion tiempo="194">Myself</cancion>
+        <cancion tiempo="165">Struggle</cancion>
+        <cancion tiempo="184">Nightmare</cancion>
+        <cancion tiempo="126">Fear</cancion>
+        <cancion tiempo="175">One Shot</cancion>
+        <cancion tiempo="185">Deep Thoughts</cancion>
+        <cancion tiempo="236">Memories</cancion>
+        <cancion tiempo="144">Jugde</cancion>
+        <sello>Burning Boat</sello>
+        <anyo>2019</anyo>
+    </cd>
+    <cd>
+        <titulo>Careless: The Collection</titulo>
+        <artista>NEFFEX</artista>
+        <cancion  tiempo="296">Careless</cancion>
+        <cancion  tiempo="164">It's Just Not Fair</cancion>
+        <cancion  tiempo="196">Here to Stay</cancion>
+        <cancion  tiempo="159">All These Thoughts</cancion>
+        <cancion  tiempo="148">Mirror</cancion>
+        <cancion  tiempo="240">Blow Up</cancion>
+        <cancion  tiempo="187">Backstage</cancion>
+        <cancion  tiempo="144">Lost Within</cancion>
+        <cancion  tiempo="141">Damn Gurl</cancion>
+        <cancion  tiempo="177">Take Me Away</cancion>
+        <cancion  tiempo="207">Self Made</cancion>
+        <cancion  tiempo="122">Take Me Back Again</cancion>
+        <cancion  tiempo="178">Badass</cancion>
+        <cancion  tiempo="184">Fade Away</cancion>
+        <sello>Burning Boat</sello>
+        <anyo>2019</anyo>
+    </cd>
+    <cd>
+        <titulo>Blurryface</titulo>
+        <artista>Twenty One Pilots</artista>
+        <cancion  tiempo="234">Heavydirtysoul</cancion>
+        <cancion  tiempo="202">Stressed Out</cancion>
+        <cancion  tiempo="214">Ride</cancion>
+        <cancion  tiempo="207">Fairly Local</cancion>
+        <cancion  tiempo="188">Tear in My Heart</cancion>
+        <cancion  tiempo="253">Lane Boy</cancion>
+        <cancion  tiempo="297">The Judge</cancion>
+        <cancion  tiempo="191">Doubt</cancion>
+        <cancion  tiempo="226">Polarize</cancion>
+        <cancion  tiempo="177">We Don't Believe What's on TV</cancion>
+        <cancion  tiempo="240">Message Man</cancion>
+        <cancion  tiempo="234">Hometown</cancion>
+        <cancion  tiempo="238">Not Today</cancion>
+        <cancion  tiempo="236">Goner</cancion>
+        <sello>Warner Music Group Company</sello>
+        <anyo>2015</anyo>
+    </cd>
+    <cd>
+        <titulo>Origins (Deluxe)</titulo>
+        <artista>Imagine Dragons</artista>
+        <cancion  tiempo="189">Natural</cancion>
+        <cancion  tiempo="187">Boomerang</cancion>
+        <cancion  tiempo="181">Machine</cancion>
+        <cancion  tiempo="217">Cool Out</cancion>
+        <cancion  tiempo="260">Bad Liar</cancion>
+        <cancion  tiempo="217">West Coast</cancion>
+        <cancion  tiempo="210">Zero</cancion>
+        <cancion  tiempo="204">Bullet In A Gun</cancion>
+        <cancion  tiempo="201">Digital</cancion>
+        <cancion  tiempo="180">Only</cancion>
+        <cancion  tiempo="190">Stuck</cancion>
+        <cancion  tiempo="166">Love</cancion>
+        <cancion  tiempo="219">Birds</cancion>
+        <cancion  tiempo="273">Burn Out</cancion>
+        <cancion  tiempo="247">Real Life</cancion>
+        <sello>KIDinaKORNER</sello>
+        <anyo>2018</anyo>
+    </cd>
+    <cd>
+        <titulo>Evolve</titulo>
+        <artista>Imagine Dragons</artista>
+        <cancion  tiempo="230">Next To Me</cancion>
+        <cancion  tiempo="190">I Don't Know Why</cancion>
+        <cancion  tiempo="201">Whatever It Takes</cancion>
+        <cancion  tiempo="204">Believer</cancion>
+        <cancion  tiempo="232">Walking The Wire</cancion>
+        <cancion  tiempo="231">Rise Uo</cancion>
+        <cancion  tiempo="262">I'll Make It Up To You</cancion>
+        <cancion  tiempo="205">Yesterday</cancion>
+        <cancion  tiempo="221">Mouth Of The River</cancion>
+        <cancion  tiempo="187">Thunder</cancion>
+        <cancion  tiempo="186">Start Over</cancion>
+        <cancion  tiempo="233">Dancing In The Dark</cancion>
+        <sello>KIDinaKORNER</sello>
+        <anyo>2017</anyo>
+    </cd>
+    <cd>
+        <titulo>Night Visions</titulo>
+        <artista>Imagine Dragons</artista>
+        <cancion  tiempo="186">Radioactive</cancion>
+        <cancion  tiempo="193">Tiptoe</cancion>
+        <cancion  tiempo="237">It's Time</cancion>
+        <cancion  tiempo="175">Demons</cancion>
+        <cancion  tiempo="189">On Top Of The World</cancion>
+        <cancion  tiempo="241">Amsterdam</cancion>
+        <cancion  tiempo="232">Hear Me</cancion>
+        <cancion  tiempo="215">Every Night</cancion>
+        <cancion  tiempo="221">Bleeding Out</cancion>
+        <cancion  tiempo="206">Underdog</cancion>
+        <cancion  tiempo="536">Nothing Left To Say</cancion>
+        <cancion  tiempo="249">Cha-Ching</cancion>
+        <cancion  tiempo="235">Working Man</cancion>
+        <cancion  tiempo="175">My Fault</cancion>
+        <cancion  tiempo="196">Round And Round</cancion>
+        <cancion  tiempo="204">The River</cancion>
+        <cancion  tiempo="272">America</cancion>
+        <cancion  tiempo="239">Selene</cancion>
+        <cancion  tiempo="258">Cover Up</cancion>
+        <cancion  tiempo="198">I Don't Mind</cancion>
+        <sello>KIDinaKORNER</sello>
+        <anyo>2012</anyo>
+    </cd>
+    <cd>
+        <titulo>My Liver Will Handle What My Heart Can't</titulo>
+        <artista>$uicideboy$</artista>
+        <cancion  tiempo="224">Vincent Van Gogh Ain't Got Shit On Me</cancion>
+        <cancion  tiempo="173">Reign In Blood</cancion>
+        <cancion  tiempo="126">Shattered Amethyst</cancion>
+        <cancion  tiempo="164">Fold</cancion>
+        <cancion  tiempo="108">Tulane</cancion>
+        <cancion  tiempo="119">Cherish The Dead</cancion>
+        <cancion  tiempo="120">Opal Ring</cancion>
+        <cancion  tiempo="127">Totally Rotten Underground</cancion>
+        <cancion  tiempo="157">Whoa, I'm Woeful</cancion>
+        <cancion  tiempo="118">A Death In The Ocean Would Be Beautiful</cancion>
+        <cancion  tiempo="150">Fuckthepopulation</cancion>
+        <cancion  tiempo="145">Kill Yourself (Part III)</cancion>
+        <cancion  tiempo="116">Iron Veil</cancion>
+        <sello>G59 RECORDS</sello>
+        <anyo>2015</anyo>
+    </cd>
+    <cd>
+        <titulo>Stop Staring At The Shadows</titulo>
+        <artista>$uicideboy$</artista>
+        <cancion  tiempo="153">All Dogs Go To Heaven</cancion>
+        <cancion  tiempo="133">I Wanna Be Romanticized</cancion>
+        <cancion  tiempo="97">One Last Look At The Damage</cancion>
+        <cancion  tiempo="164">[Whispers Indistinctly]</cancion>
+        <cancion  tiempo="101">Mega Zeph</cancion>
+        <cancion  tiempo="106">Putrid Pride</cancion>
+        <cancion  tiempo="123">That Just Isn't Empirically Possible</cancion>
+        <cancion  tiempo="106">What The Fuck Is Happening</cancion>
+        <cancion  tiempo="214">Bizarro</cancion>
+        <cancion  tiempo="93">Scope Set</cancion>
+        <cancion  tiempo="102">Fuck Your Culture</cancion>
+        <cancion  tiempo="168">...And To Those I Love, Thanks For Sticking Around</cancion>
+        <sello>G59 RECORDS</sello>
+        <anyo>2020</anyo>
+    </cd>
+    <cd>
+        <titulo>?</titulo>
+        <artista>XXXTENTACION</artista>
+        <cancion  tiempo="117">Introduction</cancion>
+        <cancion  tiempo="109">ALONE, PART3</cancion>
+        <cancion  tiempo="135">Moonlight</cancion>
+        <cancion  tiempo="166">SAD!</cancion>
+        <cancion  tiempo="160">the remedy for a broken heart</cancion>
+        <cancion  tiempo="93">Floor 555</cancion>
+        <cancion  tiempo="186">NUMB</cancion>
+        <cancion  tiempo="176">infinity (888)</cancion>
+        <cancion  tiempo="115">going down!</cancion>
+        <cancion  tiempo="101">Pain = BESTFRIEND</cancion>
+        <cancion  tiempo="130">$$$</cancion>
+        <cancion  tiempo="48">love yourself</cancion>
+        <cancion  tiempo="109">SMASH!</cancion>
+        <cancion  tiempo="192">I don't even speak spanish lol</cancion>
+        <cancion  tiempo="121">changes</cancion>
+        <cancion  tiempo="110">Hope</cancion>
+        <cancion  tiempo="80">schizophrenia</cancion>
+        <cancion  tiempo="99">before I close my eyes</cancion>
+        <sello>Bad Vibes Forever</sello>
+        <anyo>2018</anyo>
+    </cd>
+    <cd>
+        <titulo>Hexada</titulo>
+        <artista>Ghostemane</artista>
+        <cancion  tiempo="59">Intro.Decadence</cancion>
+        <cancion  tiempo="135">Hexada</cancion>
+        <cancion  tiempo="92">Rake</cancion>
+        <cancion  tiempo="124">Mercury: Retrogade</cancion>
+        <cancion  tiempo="107">D(R)Own</cancion>
+        <cancion  tiempo="105">Smog</cancion>
+        <cancion  tiempo="172">Changing of the Tides</cancion>
+        <cancion  tiempo="181">Idle Hands</cancion>
+        <cancion  tiempo="140">Squeeze</cancion>
+        <cancion  tiempo="219">Polaris</cancion>
+        <sello>GHOSTEMANE</sello>
+        <anyo>2017</anyo>
+    </cd>
+</cdteca>
